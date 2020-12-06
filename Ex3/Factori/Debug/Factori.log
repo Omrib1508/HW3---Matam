@@ -1,0 +1,19 @@
+﻿  Lock.c
+  PrimeNum.c
+  Queue.c
+  main.c
+  Generating Code...
+C:\Users\OMRI\Documents\לימודים\שנה ד ואחרונה\סימסטר ז\מבוא לתכנות מערכות\HW3\Ex3\Factori\Queue.c(20): warning C4716: 'Queue__initializeQueue': must return a value
+C:\Users\OMRI\Documents\לימודים\שנה ד ואחרונה\סימסטר ז\מבוא לתכנות מערכות\HW3\Ex3\Factori\Queue.c(28): warning C4716: 'Queue__Top': must return a value
+C:\Users\OMRI\Documents\לימודים\שנה ד ואחרונה\סימסטר ז\מבוא לתכנות מערכות\HW3\Ex3\Factori\Queue.c(36): warning C4716: 'Queue__Pop': must return a value
+C:\Users\OMRI\Documents\לימודים\שנה ד ואחרונה\סימסטר ז\מבוא לתכנות מערכות\HW3\Ex3\Factori\Queue.c(44): warning C4716: 'Queue__Push': must return a value
+C:\Users\OMRI\Documents\לימודים\שנה ד ואחרונה\סימסטר ז\מבוא לתכנות מערכות\HW3\Ex3\Factori\Queue.c(52): warning C4716: 'Queue__Empty': must return a value
+C:\Users\OMRI\Documents\לימודים\שנה ד ואחרונה\סימסטר ז\מבוא לתכנות מערכות\HW3\Ex3\Factori\Queue.c(60): warning C4716: 'Queue__DestroyQueue': must return a value
+C:\Users\OMRI\Documents\לימודים\שנה ד ואחרונה\סימסטר ז\מבוא לתכנות מערכות\HW3\Ex3\Factori\PrimeNum.c(86): warning C4716: 'num_2_PrimeNum_List': must return a value
+C:\Users\OMRI\Documents\לימודים\שנה ד ואחרונה\סימסטר ז\מבוא לתכנות מערכות\HW3\Ex3\Factori\Lock.c(28): warning C4716: 'Lock__read_lock': must return a value
+C:\Users\OMRI\Documents\לימודים\שנה ד ואחרונה\סימסטר ז\מבוא לתכנות מערכות\HW3\Ex3\Factori\Lock.c(36): warning C4716: 'Lock__read_realese': must return a value
+C:\Users\OMRI\Documents\לימודים\שנה ד ואחרונה\סימסטר ז\מבוא לתכנות מערכות\HW3\Ex3\Factori\Lock.c(43): warning C4716: 'Lock__write_lock': must return a value
+C:\Users\OMRI\Documents\לימודים\שנה ד ואחרונה\סימסטר ז\מבוא לתכנות מערכות\HW3\Ex3\Factori\Lock.c(20): warning C4716: 'Lock__InitializeLock': must return a value
+C:\Users\OMRI\Documents\לימודים\שנה ד ואחרונה\סימסטר ז\מבוא לתכנות מערכות\HW3\Ex3\Factori\Lock.c(51): warning C4716: 'Lock__write_realese': must return a value
+C:\Users\OMRI\Documents\לימודים\שנה ד ואחרונה\סימסטר ז\מבוא לתכנות מערכות\HW3\Ex3\Factori\Lock.c(59): warning C4716: 'Lock__DestroyLock': must return a value
+  Factori.vcxproj -> C:\Users\OMRI\Documents\לימודים\שנה ד ואחרונה\סימסטר ז\מבוא לתכנות מערכות\HW3\Ex3\Debug\Factori.exe
